@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.body {
+  font-family: "DM Sans", sans-serif;
+  background: #191919;
+}
+
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+body {
+  font-family: "DM Sans", sans-serif;
+}
+a {
+  text-decoration: none;
+}
+button {
+  cursor: pointer;
+  border: none;
+}
+#header {
+  padding: 30px O;
+  background: #191919;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.header-nav {
+  display: flex;
+  gap: 40px;
+}
+.header h1 {
+  color: white;
+}
+.header-nav a {
+  color: #fff;
+  font-size: 17px;
+  font-weight: 400;
+  margin: 0 10px;
+}
+#hero {
+  background: #191919;
+}
+.hero {
+  display: flex;
+  align-items: center;
+}
+.img-o h3 {
+  color: #fff;
+  width: 530px;
+}
